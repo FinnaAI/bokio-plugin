@@ -1,0 +1,12 @@
+{
+  "name": "bokio",
+  "description": "Bokio accounting integration - upload receipts, find missing invoices, sync with Gmail",
+  "version": "1.0.0",
+  "author": {
+    "name": "finnaai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnaai/bokio-plugin"
+  }
+}
