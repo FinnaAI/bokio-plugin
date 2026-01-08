@@ -7,7 +7,8 @@ Full [Bokio](https://www.bokio.se) Swedish accounting integration for Claude Cod
 In Claude Code, run:
 
 ```
-/plugin install finnaai/bokio-plugin
+/plugin marketplace add finnaai/bokio-plugin
+/plugin install bokio@finnaai-bokio
 ```
 
 Or test locally:

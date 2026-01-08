@@ -1,0 +1,17 @@
+{
+  "name": "finnaai-bokio",
+  "owner": {
+    "name": "FinnaAI"
+  },
+  "metadata": {
+    "description": "Bokio accounting plugin for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "bokio",
+      "source": ".",
+      "description": "Full Bokio accounting integration - receipts, invoices, customers, SIE exports",
+      "version": "1.0.0"
+    }
+  ]
+}
