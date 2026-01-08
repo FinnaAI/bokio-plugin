@@ -4,14 +4,16 @@ Full [Bokio](https://www.bokio.se) Swedish accounting integration for Claude Cod
 
 ## Installation
 
-```bash
-claude /install github:finnaai/bokio-plugin
+In Claude Code, run:
+
+```
+/plugin install finnaai/bokio-plugin
 ```
 
 Or test locally:
 
 ```bash
-claude --plugin-dir ./bokio
+claude --plugin-dir ~/dev/bokio-plugin
 ```
 
 ## Setup
