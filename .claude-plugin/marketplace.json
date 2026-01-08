@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "bokio",
-      "source": ".",
+      "source": "./plugins/bokio",
       "description": "Full Bokio accounting integration - receipts, invoices, customers, SIE exports",
       "version": "1.0.0"
     }
